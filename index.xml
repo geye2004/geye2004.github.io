@@ -6,7 +6,23 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jul 2023 18:18:38 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jul 2023 21:52:21 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MySecondArticles</title>
+      <link>/posts/mysecondarticles/</link>
+      <pubDate>Sat, 01 Jul 2023 21:52:21 +0800</pubDate>
+      
+      <guid>/posts/mysecondarticles/</guid>
+      <description>
+        
+          
+            #关于创建博客的问题，在之前ifLab社团时其实已经自己创建过博客，但没有用hugo创建，这次创建也遇到了很多问题，第一点就是github的desktop无法连接到github，换了好几个加速器都不行，最后用谷歌浏览器才解决。第二个问题是由于之前用一样的仓库名写过一篇文章，导致这次的仓库名字重复无法使用，情急之下我把之前的仓库删掉才成功，而这也让我更为了解如何使用github仓库功能。
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>MyFirstArticles</title>
       <link>/posts/myfirstarticles/</link>
